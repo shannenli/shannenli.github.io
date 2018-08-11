@@ -1,0 +1,61 @@
+html,body{
+	height:80%;
+}
+
+body {
+	background-color:black;
+	color:white;
+}
+
+h1{
+	text-align:center;
+	padding-top:24px;
+}
+
+a{
+	color:#999;
+}
+
+a:hover, a:focus {
+	color:#bbb;
+}
+
+.name-card{
+	text-align:center;
+	display: flex;
+	align-items:center;
+	justify-content:center;
+	height:100%;
+}
+
+.bg-dark{
+	background-color:black !important;
+}
+
+.modal{
+	color:black;
+}
+
+.modal h1{
+	padding:0;
+	margin-bottom: 24px;
+	text-align: left;
+}
+
+.modal h2 {
+	font-size: 1.2rem;
+	margin-top: 24px;
+}
+
+.modal-header{
+	border:none;
+}
+
+.modal-body{
+	padding-top:0;
+}
+
+.article-card {
+	padding-top:24px;
+	padding-bottom:24px;
+}
