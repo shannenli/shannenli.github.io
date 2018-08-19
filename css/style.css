@@ -56,6 +56,21 @@ a:hover, a:focus {
 }
 
 .article-card {
-	padding-top:24px;
 	padding-bottom:24px;
+}
+
+.article-card h2{
+	color:white;
+}
+.image-small{
+	width:50%;
+}
+
+.article-card-wrapper{
+text-align: center;
+}
+
+.paint{
+background-color: blue;
+color: blue
 }
