@@ -60,7 +60,7 @@ a:hover, a:focus {
 }
 
 .article-card h2{
-	color:white;
+	color:rgba(255,255,255,.5);
 }
 .image-small{
 	width:50%;
